@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="y-holder">
+  <layers>
+    <layer name="Default" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <rect id="1" Closed="true" w="0" h="0">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,0,0</p>
+            <p>0,0,0</p>
+            <p>0,0,0</p>
+            <p>0,0,0</p>
+          </pts>
+        </rect>
+        <rect id="2" Closed="true" w="300" h="110">
+          <ModificationCount>6</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,0,0</p>
+            <p>300,0,0</p>
+            <p>300,110,0</p>
+            <p>0,110,0</p>
+          </pts>
+        </rect>
+        <rect id="3" Closed="true" p="0,5,0" w="20" h="40">
+          <ModificationCount>4</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>0,5,0</p>
+            <p>20,5,0</p>
+            <p>20,45,0</p>
+            <p>0,45,0</p>
+          </pts>
+        </rect>
+        <rect id="4" Closed="true" p="280,5,0" w="20" h="40">
+          <ModificationCount>31</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>280,5,0</p>
+            <p>300,5,0</p>
+            <p>300,45,0</p>
+            <p>280,45,0</p>
+          </pts>
+        </rect>
+        <rect id="5" Closed="true" p="20,25,0" w="260" h="20">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>20,25,0</p>
+            <p>280,25,0</p>
+            <p>280,45,0</p>
+            <p>20,45,0</p>
+          </pts>
+        </rect>
+        <circle id="6" c="6,94,0" d="6">
+          <ModificationCount>85</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="7" c="42,94,0" d="6">
+          <ModificationCount>90</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="8" c="24,94,0" d="12.5">
+          <ModificationCount>158</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="10" c="24,94,0" d="25">
+          <ModificationCount>58</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="16">
+          <ModificationCount>59</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>18,105,0</p>
+            <p>0.5,98,0</p>
+            <p>0.5,94,0</p>
+            <p>0.5,90,0</p>
+            <p>18,83,0</p>
+          </pts>
+        </pline>
+        <pline id="18">
+          <ModificationCount>59</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>30,105,0</p>
+            <p>47.5,98,0</p>
+            <p>47.5,94,0</p>
+            <p>47.5,90,0</p>
+            <p>30,83,0</p>
+          </pts>
+        </pline>
+        <circle id="24" c="24.15,57.15,0" d="22">
+          <ModificationCount>276</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="25" c="8.65000000000001,73,35" d="3">
+          <ModificationCount>265</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="26" c="39.65,73,35" d="3">
+          <ModificationCount>268</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="27" c="8.65000000000001,42,35" d="3">
+          <ModificationCount>268</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="28" c="39.65,42,35" d="3">
+          <ModificationCount>268</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="35" Closed="true">
+          <ModificationCount>263</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>6.99999999999997,36,0</p>
+            <p>41.3,36,0</p>
+            <p>45.3,40,0</p>
+            <p>45.3,74.3,0</p>
+            <p>41.3,78.3,0</p>
+            <p>7,78.3,0</p>
+            <p>3,74.3,0</p>
+            <p>3,40,0</p>
+          </pts>
+        </pline>
+        <circle id="36" c="24.15,57.15,0" d="5">
+          <ModificationCount>265</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Default</ActiveLayer>
+</CADFile>
